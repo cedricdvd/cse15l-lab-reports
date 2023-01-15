@@ -1,12 +1,18 @@
 # Lab Report 1
 
+This report is intended to show incoming CSE 15L students how to:
+
+1. Install Visual Studio Code
+2. Connect to a Remote Server
+3. Run Commands on a Remote Server
+
 ## Installing VSCode
 
 Since I already had Visual Studio Code on my computer, I did not need to
-install anything. However, incase you still need to install it, you can
-download the IDE through the [VSCode website][1]. Be sure to install the
-version suitable for your Operating System. Once that is done, open up the
-application. It should look similar to the image below.
+install anything. Incase you still need to install it, you can download the
+editor through the [VSCode website][1]. Be sure to install the version suitable
+for your Operating System. Once that is done, open up the application. It
+should look similar to the image below.
 
 ![Example VSCode window][2]
 
@@ -36,16 +42,17 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 If that is the case, type `yes`. When the terminal prompts you for your
 password, type it in.
 
-If you've successfully logged in, the output should look something like
+If you have successfully logged in, the output should look something like
 this:
 
 ![remote output][4]
 
 ## Trying Some Commands
 
-Now that you're logged in, we can beginning testing out some commands.
+Now that you are logged in, we can beginning testing out some commands.
 
 The following command will print out the current working directory.
+
 ```shell
 $ pwd
 ```
@@ -54,6 +61,7 @@ $ pwd
 
 The following command will list files and directories in your current
 directory.
+
 ```shell
 $ ls
 ```
@@ -62,6 +70,7 @@ $ ls
 
 By adding `-a` to the previous command, all files and directories (including
 those beginning with `.`) will be listed.
+
 ```shell
 $ ls -a
 ```
@@ -70,6 +79,7 @@ $ ls -a
 
 The following commands will change your directory to the `perl5` directory
 and list out its path.
+
 ```shell
 $ cd perl5
 $ pwd
@@ -90,6 +100,7 @@ The first command will change your directory back to the parent directory.
 The second command adds `-lat` to the `ls` command, causing it to list all
 files and directories in long format and order them in descending order by
 time modified.
+
 ```shell
 $ cd ..
 $ ls -lat
