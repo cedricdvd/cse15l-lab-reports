@@ -16,9 +16,6 @@ man grep
 or read the [GNU manual][2] or [Linux manual page][3]. For this report, any
 information will be taken from the GNU manual
 
-For more information, visit:
-<https://www.gnu.org/software/grep/manual/grep.html#index-_002dm>.
-
 ## Limiting the Number of Reads with `-m`
 
 According to the [GNU manual][4], `-m num` will read the first *num* selected
@@ -107,6 +104,9 @@ $ grep "Greek" -m 5 written_2/travel_guides/berlitz1/HistoryGreek.txt
 This option can also be useful if the user is trying to remove all instances
 of a string within a file. If there are too many instances, using `-m num`
 reduces the amount of information being printed to the terminal.
+
+For more information, visit:
+<https://www.gnu.org/software/grep/manual/grep.html#index-_002dm>.
 
 ## Recursively Searching Files with `-r`
 
