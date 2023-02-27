@@ -314,8 +314,8 @@ insight on how multiple people might interact with a web server hosted on a
 remote machine.
 
 [1]: https://github.com/ucsd-cse15l-f22/wavelet/blob/master/Server.java
-[2]: ../images/report-2/server-add-1.png
-[3]: ../images/report-2/server-add-2.png
+[2]: ../images/lab2/server-add-1.png
+[3]: ../images/lab2/server-add-2.png
 [4]: https://github.com/ucsd-cse15l-w23/lab3/blob/main/FileExample.java
-[5]: ../images/report-2/test-bug-results.png
-[6]: ../images/report-2/test-fix-results.png
+[5]: ../images/lab2/test-bug-results.png
+[6]: ../images/lab2/test-fix-results.png

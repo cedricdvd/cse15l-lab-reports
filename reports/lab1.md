@@ -118,13 +118,13 @@ $ exit
 ![logout][11]
 
 [1]: https://code.visualstudio.com/
-[2]: ../images/report-1/vscode-window.png
+[2]: ../images/lab1/vscode-window.png
 [3]: https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit?usp=sharing
-[4]: ../images/report-1/remote-output.png
-[5]: ../images/report-1/pwd.png
-[6]: ../images/report-1/ls.png
-[7]: ../images/report-1/ls-a.png
-[8]: ../images/report-1/cd-perl5.png
-[9]: ../images/report-1/perl5-ls.png
-[10]: ../images/report-1/cd-ls-lat.png
-[11]: ../images/report-1/exit.png
+[4]: ../images/lab1/remote-output.png
+[5]: ../images/lab1/pwd.png
+[6]: ../images/lab1/ls.png
+[7]: ../images/lab1/ls-a.png
+[8]: ../images/lab1/cd-perl5.png
+[9]: ../images/lab1/perl5-ls.png
+[10]: ../images/lab1/cd-ls-lat.png
+[11]: ../images/lab1/exit.png
