@@ -69,7 +69,7 @@ allowed me to access `javac`. Since I want to run `java` instead of `javac`,
 
 After this sequence of keystrokes, this was my command:
 
-```
+```shell
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 ```
 
